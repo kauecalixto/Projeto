@@ -3,7 +3,7 @@
 # Descrição do Projeto
 
 
-![img.png](img.png)git commit -m "first commit"
+![img.png](img.png)
 
 Este projeto é uma aplicação de desktop para cadastro, vendas e qualificações de produtos, desenvolvida em Python. A interface gráfica é construída utilizando a biblioteca Tkinter, e a manipulação de dados é realizada com as bibliotecas pandas e seaborn para análise e visualização.
 
