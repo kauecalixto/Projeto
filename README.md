@@ -41,7 +41,7 @@ Este projeto é uma aplicação de desktop para cadastro, vendas e qualificaçõ
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/kauecalixto/Projetos-Desafios/new/Projetos_ocalixto.git
+   git clone https://github.com/kauecalixto/Projeto.git
 
 
 
